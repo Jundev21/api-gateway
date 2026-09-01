@@ -104,7 +104,7 @@ Order Service
 * `Idempotency-Key`를 이용한 API 중복 요청 방지
 * Product Service의 재고 처리 결과 반영
 
-자세한 내용은 `order-service/README.md`에 정리했습니다.
+GitHub: https://github.com/Jundev21/order-service
 
 ---
 
@@ -122,7 +122,7 @@ Order Service에서 전달받은 주문 이벤트를 기준으로 재고를 차�
 * Kafka Producer / Consumer
 * `eventId`를 이용한 Kafka 이벤트 중복 처리 방지
 
-자세한 내용은 `product-service/README.md`에 정리했습니다.
+GitHub: https://github.com/Jundev21/product-service
 
 ---
 
